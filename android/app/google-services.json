@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48984697145",
+    "project_id": "pro-task-weather",
+    "storage_bucket": "pro-task-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48984697145:android:0be04c2523260a34d4e0e8",
+        "android_client_info": {
+          "package_name": "com.example.pro_task_weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbU2kNQUXNsAwGl3u_pMB7DlV8KTZJpzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
