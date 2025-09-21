@@ -1,14 +1,34 @@
-# pro_task_weather_app
-# Helps you manage your tasks while staying updated with the weather.
+# ☀️ Do It – Weather & Task Management App  
 
-Key Features:
+A **Flutter mobile application** that combines **task management** with **real-time weather forecasting**.  
+The app helps users stay productive while staying updated on weather conditions in their location.  
 
-This application seamlessly integrates two core functionalities: task management and weather data. Users can perform a range of task-related actions, including adding, editing, deleting, and searching for specific tasks, all of which are securely stored in Firebase Firestore.
+---
 
-For weather functionality, users can choose to grant location permissions for automatic weather updates or manually enter a city name to retrieve current weather data. A unique aspect of the app is its ability to link weather conditions with each task, providing contextual information that enhances the user experience. This contextual data is stored alongside each task in Firestore, ensuring relevant information is always at hand.
+## ✨ Features  
 
-Additionally, the app is being integrated with Firebase Authentication, enabling secure user logins that ensure personalized task and weather management.
+- 📝 **Task Management**: Add, edit, and delete daily tasks.  
+- ☀️ **Weather Integration**: Get real-time weather updates based on geolocation.  
+- 🌍 **Geolocation Support**: Auto-detects user’s current city for accurate weather.  
+- ⚡ **Clean Architecture**: Scalable and modular Flutter codebase.  
+- 🔔 **Firebase-powered Features**: Authentication & cloud sync.  
 
-Architecture:
+---
 
-Both the task management and weather functionalities are implemented as separate components following Clean Architecture principles, promoting maintainability and scalability within the application.
+## 🛠️ Tech Stack  
+
+- **Framework:** Flutter (cross-platform)  
+- **Architecture:** Clean Architecture  
+- **State Management:** BLoC + GetIt (Dependency Injection)  
+- **APIs & Networking:** Dio (REST API calls for weather), Geolocator  
+- **Backend & Cloud:** Firebase (Auth, Firestore)  
+
+---
+
+## 📧 Contact  
+
+- **Author:** Salah Mohammed Abd Al-Ati  
+- **LinkedIn:** [Profile](https://ps.linkedin.com/in/salah-mohammed-a73a1a253)  
+- **Email:** [sm4613283@gmail.com](mailto:sm4613283@gmail.com)  
+
+---
